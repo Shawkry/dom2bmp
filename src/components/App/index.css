@@ -36,3 +36,57 @@
     transform: rotate(360deg);
   }
 }
+
+.divf {
+  width: 600mm;
+  height: 400mm;
+  border: solid;
+}
+
+.divf2 {
+  width: 570mm;
+  height: 370mm;
+  border: solid;
+  background-color: blue;
+  margin: 15mm;
+}
+
+.divline {
+  width: 560mm;
+  height: 80mm;
+  background-color: pink;
+  margin: 5mm auto;
+}
+
+.divsheetsize {
+  border: dashed;
+  width: 200mm;
+  height: 60mm;
+  background-color: red;
+  margin: 22mm auto;
+}
+
+.divtxt {
+  color: white;
+  text-align: center;
+  font-size: 200px;
+}
+
+.div1 {
+  float: left;
+  width: 280mm;
+  height: 80mm;
+  background-color: blueviolet;
+}
+
+.div2 {
+  float: left;
+  width: 280mm;
+  height: 80mm;
+  background-color: red;
+}
+
+.btn{
+  margin: 20px;
+  position: relative;
+}
